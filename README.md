@@ -5,5 +5,5 @@ https://youtu.be/YfF3-PuVcXQ
 
 Alunos:
 Alexandre Andrioli Tucci,
-Gustavo Delinski Tavares,
-João Victor Saboya Ribeiro de Carvalho
+João Victor Saboya Ribeiro de Carvalho,
+Gustavo Delinski Tavares
